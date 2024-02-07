@@ -1,1 +1,4 @@
-npm install
+1. npm install
+2. npm i -g typescript
+3. tsc --init --sourceMap --rootDir src --outDir dist
+4. write tsc src/index.ts
